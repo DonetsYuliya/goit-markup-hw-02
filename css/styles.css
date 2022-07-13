@@ -118,7 +118,6 @@ body {
     text-transform: uppercase;
 }
 .pref-text {
-    font-weight: 400;
     line-height: 1.71;
     /* or 171% */
 
@@ -146,7 +145,6 @@ body {
     letter-spacing: 0.03em;
 }
 .job-title {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.19;
     /* identical to box height */
@@ -164,7 +162,6 @@ body {
     font-style: inherit;
 }
 .footer-address {
-    font-weight: 400;
     line-height: 1.71;
     /* or 171% */
 
@@ -173,7 +170,6 @@ body {
     color: var(--main-background);
 }
 .footer-contact {
-    font-weight: 400;
     line-height: 1.71;
     /* or 171% */
 
@@ -222,7 +218,6 @@ body {
     letter-spacing: 0.06em;
 }
 .filter-name {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.88;
     /* identical to box height, or 188% */
